@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://MCabal77.github.io/portfolio",
+  "homepage": "MCabal77.github.io/portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
