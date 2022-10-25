@@ -9,6 +9,6 @@ export default [
     title: 'Banking App',
     imageUrl: 'https://i.postimg.cc/1XmfBm5g/Bank-React1.png',
     tech: ['HTML', 'CSS', 'React JS', 'Vite', 'PostgreSQL'],
-    workUrl: '',
+    workUrl: 'https://polite-wisp-a0b2ed.netlify.app/',
   },
 ]
