@@ -8,9 +8,15 @@ function About() {
       <div className="w-full md:w-6/12">
         <SectionTitle>&lt;about_me&gt;</SectionTitle>
         <p className="text-xl text-P_COLOR">
-          Hello World! My name is Marc and I'm a developer who is primarily self taught. I started writing my first program in 2012 and I've been hooked since. With an industry that's constantly evolving, I've always enjoyed the thrill of the chase. 
-          <br/>
-          
+          Hello World! My name is{" "}
+          <span className=" text-TERTIARY_COLOR">Marc</span> and I'm a developer
+          who is primarily{" "}
+          <span className=" text-TERTIARY_COLOR">self taught</span>. I wrote my
+          first <span className=" italic text-TERTIARY_COLOR">Hello World</span>{" "}
+          when I was <span className=" text-TERTIARY_COLOR">12 years old</span>{" "}
+          and I've been hooked since. With an industry that's constantly
+          evolving, I've always enjoyed the thrill of the chase.
+          <br />
         </p>
         <a
           href="mailto:marccabal77@gmail"
