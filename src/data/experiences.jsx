@@ -21,7 +21,7 @@ export default [
   },
   {
     title: 'Languages',
-    description: 'JavaScript, Python, Java, SQL, NoSQL, C#, Ruby',
+    description: 'JavaScript, TypeScript, Python, Java, SQL, NoSQL, C#/C++, Ruby',
     icon: <IoLogoJavascript className='w-full h-full'/>,
   }
 ]
