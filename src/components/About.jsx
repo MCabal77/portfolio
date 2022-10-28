@@ -1,5 +1,6 @@
 import React from "react";
 import SectionTitle from "./SectionTitle";
+import { headshot } from '../assets';
 
 function About() {
   return (
@@ -29,7 +30,7 @@ function About() {
       {/* Right Side */}
       {/* TODO: Add image of yourself */}
       <img
-        src=""
+        src={headshot}
         alt="Marc Cabal"
         className="w-full md:w-6/12 rounded-lg object-cover"
       />
