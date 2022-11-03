@@ -1,6 +1,5 @@
 import React from "react";
 import SectionTitle from "./SectionTitle";
-import { headshot } from '../assets';
 
 function About() {
   return (
