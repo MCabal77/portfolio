@@ -6,7 +6,7 @@ function About() {
   return (
     <div className="flex flex-col md:flex-row items-center justify-center gap-10 md:gap-20 py-20">
       {/* Left Side */}
-      <div className="w-full md:w-6/12">
+      <div className="w-full">
         <SectionTitle>&lt;about_me&gt;</SectionTitle>
         <p className="text-xl text-P_COLOR">
           Hello World! My name is{" "}
@@ -29,11 +29,11 @@ function About() {
 
       {/* Right Side */}
       {/* TODO: Add image of yourself */}
-      <img
+      {/* <img
         src={headshot}
         alt="Marc Cabal"
         className="w-full md:w-6/12 rounded-lg object-cover"
-      />
+      /> */}
     </div>
   );
 }

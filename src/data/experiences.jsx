@@ -11,17 +11,17 @@ export default [
   }, 
   {
     title: 'Backend Development',
-    description: 'Ruby on Rails, Django, Node.js, Nest.js, Express.js',
+    description: 'Ruby on Rails, Django, Node.js, Nest.js, Express.js, GraphQL',
     icon: <GoCode className='w-full h-full'/>,
   },
   {
     title: 'Data Management',
-    description: 'AWS, Google Cloud ',
+    description: 'AWS, Google Cloud, NoSQL',
     icon: <AiOutlineDatabase className='w-full h-full'/>,
   },
   {
     title: 'Languages',
-    description: 'JavaScript, TypeScript, Python, Java, SQL, NoSQL, C#/C++, Ruby',
+    description: 'JavaScript, TypeScript, Python, Java, SQL, C#/C++, Ruby',
     icon: <IoLogoJavascript className='w-full h-full'/>,
   }
 ]
