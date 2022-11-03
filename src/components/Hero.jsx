@@ -13,7 +13,7 @@ function Hero() {
           <div className=" text-TERTIARY_COLOR">
             <TypeWriter
               options={{
-                strings: ["web developer", "creator", "designer", "programmer"],
+                strings: ["web developer", "software developer", "fullstack developer", "programmer"],
                 autoStart: true,
                 loop: true,
                 pauseFor: 2500,
