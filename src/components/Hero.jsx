@@ -19,7 +19,6 @@ function Hero() {
                   "software developer",
                   "programmer",
                   "creator",
-                  "foodie",
                 ],
                 autoStart: true,
                 loop: true,

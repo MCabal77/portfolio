@@ -8,14 +8,11 @@ function About() {
       <div className="w-full">
         <SectionTitle>&lt;about_me&gt;</SectionTitle>
         <p className="text-xl text-P_COLOR">
-          Hello World! My name is{" "}
-          <span className=" text-TERTIARY_COLOR">Marc</span> and I'm a developer
-          who is primarily{" "}
-          <span className=" text-TERTIARY_COLOR">self taught</span>. I wrote my
-          first <span className=" italic text-TERTIARY_COLOR">Hello World</span>{" "}
-          when I was <span className=" text-TERTIARY_COLOR">12 years old</span>{" "}
-          and I've been hooked since. With an industry that's constantly
-          evolving, I've always enjoyed the thrill of the chase.
+          Hello world! My name is <span className=" text-TERTIARY_COLOR">Marc</span>, and I enjoy creating things that have {" "}
+          <span className=" text-TERTIARY_COLOR">functionality</span> and <span className=" text-TERTIARY_COLOR">aesthetics</span>. I started out with scripting in video
+          games as a kid and from then; it spiraled into a growing interest.
+          Fast forward to today and my interests now have been in <span className=" text-TERTIARY_COLOR">developing</span> web
+          services and <span className=" text-TERTIARY_COLOR">automating</span> my life.
           <br />
         </p>
         <p className="inline-block text-P_COLOR mt-3 text-md md:text-lg">
