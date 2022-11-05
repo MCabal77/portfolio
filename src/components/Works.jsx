@@ -13,6 +13,7 @@ function Works() {
             key={work.title}
             imageUrl={work.imageUrl}
             title={work.title}
+            description={work.description}
             tech={work.tech}
             workUrl={work.workUrl}
           ></WorksItem>

@@ -6,22 +6,22 @@ import {IoLogoJavascript} from 'react-icons/io'
 export default [
   {
     title: 'Frontend Development',
-    description: 'React, Angular, Vue, Tailwind, Bootstrap, Next, Vite',
+    description: 'React, Vite, Tailwind, Next.js, HTML5, CSS',
     icon: <FaHandHoldingHeart className='w-full h-full'/>, 
   }, 
   {
     title: 'Backend Development',
-    description: 'Ruby on Rails, Django, Node.js, Nest.js, Express.js, GraphQL',
+    description: 'Node.js, Express.js, Nest.js',
     icon: <GoCode className='w-full h-full'/>,
   },
   {
     title: 'Data Management',
-    description: 'AWS, Google Cloud, NoSQL',
+    description: 'PostgreSQL, RESTful APIs',
     icon: <AiOutlineDatabase className='w-full h-full'/>,
   },
   {
     title: 'Languages',
-    description: 'JavaScript, TypeScript, Python, Java, SQL, C#/C++, Ruby',
+    description: 'JavaScript, TypeScript, Java, SQL, C++',
     icon: <IoLogoJavascript className='w-full h-full'/>,
   }
 ]
