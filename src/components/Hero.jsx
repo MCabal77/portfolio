@@ -39,7 +39,7 @@ function Hero() {
           </a>
 
           <a
-            href=""
+            href="../../resume.pdf" target='target_'
             className="inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-BTN_TXT bg-BTN_COLOR hover:bg-BTN_COLOR_DARKER md:text-md"
           >
             Resume
