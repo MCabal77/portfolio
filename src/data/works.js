@@ -4,7 +4,7 @@ export default [
     description: 'blah blah blah',
     imageUrl: 'https://i.postimg.cc/y631q32V/webpage-1.png',
     tech: ['HTML', 'CSS'],
-    workUrl: 'https://mcabal77.github.io/odin-landing-page/',
+    workUrl: 'https://mcabal77.github.io/landing-page-visualization/',
   },
   {
     title: 'Banking App React Visualization',
