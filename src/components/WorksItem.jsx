@@ -16,7 +16,7 @@ function WorksItem({ imageUrl, title, description, tech, workUrl }) {
         <h3 className="text-lg md:text-xl mb-2 md:mb-3 font-semibold">
           {title}
         </h3>
-        <p className="mb-2 md:mb-3">{description}</p>
+        <p className="mb-2 md:mb-3 wrap">{description}</p>
         <p className="flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-sm">
           {tech.map((item) => (
             <span
