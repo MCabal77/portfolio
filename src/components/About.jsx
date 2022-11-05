@@ -18,9 +18,12 @@ function About() {
           evolving, I've always enjoyed the thrill of the chase.
           <br />
         </p>
+        <p className="inline-block text-P_COLOR mt-3 text-md md:text-lg">
+          Email me! &nbsp;
+        </p>
         <a
           href="mailto:marccabal77@gmail"
-          className="block mt-3 text-md md:text-lg  underline text-P_COLOR hover:text-MAIN_COLOR_DARKER"
+          className="inline-block mt-3 text-md md:text-lg  underline text-P_COLOR hover:text-MAIN_COLOR_DARKER"
         >
           marccabal77@gmail.com
         </a>

@@ -5,6 +5,7 @@ export default [
     imageUrl: 'https://i.postimg.cc/bY9zQ3kn/musium.png',
     tech: ['HTML', 'Tailwind CSS', 'React JS', 'Vite', 'Redux', 'Axiom', ],
     workUrl: 'https://musium-37a14b.netlify.app/',
+    githubUrl: 'https://github.com/MCabal77/musium-app',
   },
   {
     title: 'Banking App React Visualization',
@@ -12,6 +13,7 @@ export default [
     imageUrl: 'https://i.postimg.cc/1XmfBm5g/Bank-React1.png',
     tech: ['HTML', 'Tailwind CSS', 'React JS', 'Vite', ],
     workUrl: 'https://polite-wisp-a0b2ed.netlify.app/',
+    githubUrl: 'https://github.com/MCabal77/modern-landing-page-visualization',
   },
   {
     title: 'Landing Page Visualization',
@@ -19,6 +21,7 @@ export default [
     imageUrl: 'https://i.postimg.cc/y631q32V/webpage-1.png',
     tech: ['HTML', 'CSS'],
     workUrl: 'https://mcabal77.github.io/landing-page-visualization/',
+    githubUrl: 'https://github.com/MCabal77/landing-page-visualization',
   },
   
 ]

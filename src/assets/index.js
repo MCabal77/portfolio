@@ -1,5 +1,5 @@
-import portfolio from './portfolio.png';
+import github from './github-icon.png';
 
 export {
-  portfolio,
+  github,
 };

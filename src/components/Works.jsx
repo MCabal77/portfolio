@@ -16,6 +16,7 @@ function Works() {
             description={work.description}
             tech={work.tech}
             workUrl={work.workUrl}
+            githubUrl={work.githubUrl}
           ></WorksItem>
         ))}
       </div>
