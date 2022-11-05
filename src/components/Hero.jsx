@@ -16,10 +16,10 @@ function Hero() {
             <TypeWriter
               options={{
                 strings: [
-                  "web developer",
                   "software developer",
-                  "fullstack developer",
                   "programmer",
+                  "creator",
+                  "foodie",
                 ],
                 autoStart: true,
                 loop: true,

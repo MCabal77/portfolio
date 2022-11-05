@@ -1,7 +1,7 @@
 export default [
   {
     title: 'Musium',
-    description: 'A Spotify inspired music streaming site that uses the Shazam Core API. Get lyric information of a song, show related songs, artists, related artists, top charts global and based off region, and more.',
+    description: 'A Spotify inspired music streaming site that uses the Shazam Core API. Get lyric information of a song, show related songs, artists, related artists, top charts global and based off region, and more. IMPORTANT: If you have an adblocker, the `Around You` section will not allow for API requests.',
     imageUrl: 'https://i.postimg.cc/bY9zQ3kn/musium.png',
     tech: ['HTML', 'Tailwind CSS', 'React JS', 'Vite', 'Redux', 'Axiom', ],
     workUrl: 'https://musium-37a14b.netlify.app/',
